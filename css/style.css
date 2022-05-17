@@ -231,7 +231,7 @@ h5 {
   height: 35rem;
   background-size: contain;
   background-position: 50% 50%;
-  background-image: url(/img/hero-image-bg.png);
+  background-image: url(img/hero-image-bg.png);
   background-repeat: no-repeat;
 }
 .slider__item-contet {
@@ -637,7 +637,7 @@ h5 {
   transform: translate(-50%, -50%);
   width: 3.5rem;
   height: 3.5rem;
-  background-image: url("../img/loup.png");
+  background-image: url("img/loup.png");
   background-position: 50% 50%;
   background-repeat: no-repeat;
   border-radius: 100%;
@@ -673,7 +673,7 @@ h5 {
   transform: translate(-50%, -50%);
   width: 3.5rem;
   height: 3.5rem;
-  background-image: url("../img/loup.png");
+  background-image: url("img/loup.png");
   background-position: 50% 50%;
   background-repeat: no-repeat;
   border-radius: 100%;
@@ -887,7 +887,7 @@ h5 {
   align-items: center;
   text-align: center;
   color: #fff;
-  background-image: url("../img/get-started-bg.png");
+  background-image: url("..img/get-started-bg.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 50%;
