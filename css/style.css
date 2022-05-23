@@ -138,6 +138,7 @@ h5 {
   background-color: #fff;
   border: 1px solid #5E81FE;
 }
+
 .burger-menu-item a {
   display: block;
   padding: 10px;
@@ -450,6 +451,11 @@ h5 {
     width: 80%;
     flex-wrap: wrap;
     margin: 0 auto;
+  }
+}
+@media (max-width: 576px) {
+  .section-features__list {
+    width: 50%;
   }
 }
 .section-features__list-item {
