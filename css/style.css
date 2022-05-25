@@ -458,6 +458,16 @@ h5 {
     width: 50%;
   }
 }
+@media (max-width: 440px) {
+  .section-features__list {
+    width: 70%;
+  }
+}
+@media (max-width: 320px) {
+  .section-features__list {
+    width: 90%;
+  }
+}
 .section-features__list-item {
   display: flex;
   flex-direction: column;
